@@ -6,6 +6,7 @@ QX is an application framework build with C++, OpenGL, GLFW and ImGUI.
 [![GitHub forks](https://img.shields.io/github/forks/QX-Interactive/QX.svg)](https://github.com/QX-Interactive/QX/network)
 [![GitHub stars](https://img.shields.io/github/stars/QX-Interactive/QX.svg)](https://github.com/QX-Interactive/QX/stargazers)
 [![GitHub license](https://img.shields.io/github/license/QX-Interactive/QX.svg)](https://github.com/QX-Interactive/QX/blob/main/LICENSE.md)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/QX-Interactive/QX)
 
 ## Installation
 
