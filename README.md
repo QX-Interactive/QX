@@ -54,3 +54,7 @@ See also the list of [contributors](https://github.com/QX-Interactive/QX/graphs/
 ## License
 
 This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Changelog
+
+For the changelog please see [CHANGELOG.md](CHANGELOG.md).
