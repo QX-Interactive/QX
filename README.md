@@ -16,6 +16,10 @@ Click the `Use this template` button and then the `Create a new repository` butt
 
 Clone your newly created repository and start working on your application in the top-level Application folder.
 
+## Branches
+
+The project currently has two main branches: `main` and `develop`. Features will be using seperate branches, branched from the `develop` branch since `develop` will always be the latest version of the project. Feature branches will be created with the following structure: `feature/[FEATURE_NAME]`. This branch will be merged into `develop` after the feature has been completed. If the feature is fully tested and good to go we will create a release and merge `develop` into `main`.
+
 ## Support
 
 This project is maintained by [@Bram-Reuling](https://github.com/Bram-Reuling). Please understand that we won't be able to provide individual support via email. We also believe that help is much more valuable if it's shared publicly, so that more people can benefit from it.
