@@ -38,6 +38,7 @@ For releasing 1.0.0:
 - [ ] Window creation through GLFW.
 - [ ] Custom title bar.
 - [ ] Light and Dark mode styles.
+- [ ] Multithreading support.
 - [ ] Reflection system.
 - [ ] Module system. Allowing for community created modules that can easily be added or removed from the project.
 - [ ] Networking module.
