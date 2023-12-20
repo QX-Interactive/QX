@@ -35,13 +35,17 @@ This project is maintained by [@Bram-Reuling](https://github.com/Bram-Reuling). 
 ## Roadmap
 
 For releasing 1.0.0:
-- [ ] Window creation through GLFW.
-- [ ] Custom title bar.
-- [ ] Light and Dark mode styles.
-- [ ] Multithreading support.
-- [ ] Reflection system.
-- [ ] Module system. Allowing for community created modules that can easily be added or removed from the project.
-- [ ] Networking module.
+- [ ] Module system. (V0.1)
+  - [ ] Allows user to add modules through git submodules. The system will find them automatically and link it so you can use it in your app.
+- [ ] Core module
+  - [ ] Logging utilities. (V0.2)
+  - [ ] Window creation through GLFW. (V0.3)
+  - [ ] Custom title bar. (V0.4)
+  - [ ] Wrapper for ImGUI (Just creating some easy ways to show things on the screen.). (V0.5)
+  - [ ] Light and Dark mode styles. (V0.6)
+  - [ ] Multithreading support. (V0.7)
+  - [ ] Reflection system. (V0.8)
+- [ ] Wiki pages with tutorials on how to use the framework.
 
 ## Contributing
 
